@@ -94,15 +94,15 @@ Your submission will be evaluated based on the following criteria:
    - Responsive design
 
 6. **Additional Improvements**
-   Feel free to make suggestions or implement additional improvements that you believe will add value to the project.
+   - Feel free to make suggestions or implement additional improvements that you believe will add value to the project.
 
 ## Submission
 
 Once you have completed your work, push your changes to a new branch and submit a pull request. In your pull request description, include:
 
-A brief overview of the changes you made.
-Any challenges you faced and how you overcame them.
-A description of any additional improvements or optimizations you made.
+- A brief overview of the changes you made.
+- Any challenges you faced and how you overcame them.
+- A description of any additional improvements or optimizations you made.
 
 Remember, we're not just looking for a working implementation, but for code that demonstrates your skills as a professional developer building a product for millions of users.
 
