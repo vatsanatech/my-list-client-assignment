@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the MyList Feature Assignment! This project is a Next.js application that allows users to manage their list of favorite shows. Built with TypeScript and Tailwind CSS, it leverages Playwright for end-to-end testing. Your mission is to implement the MyList feature, demonstrating your skills in full-stack development, API integration, and writing scalable, production-ready code.
+Welcome to the MyList Feature Assignment! This project is a Next.js application that allows users to manage their list of favorite shows. Built with TypeScript and Tailwind CSS, it leverages Playwright for end-to-end testing. Your mission is to implement the MyList feature (list of favourite shows), demonstrating your skills in full-stack development, API integration, and writing scalable, production-ready code.
 
 ## Tech Stack
 
@@ -58,10 +58,9 @@ Implement the MyList feature with the following functionalities:
 
 ### Requirements
 
-1. Fetch all data from the backend API. No hardcoding of data on the frontend.
-2. Ensure the UI is responsive.
-3. Write end-to-end tests using Playwright to cover the main user flows.
-4. Use TypeScript for type safety.
+1. Fetch all data from the backend API (served from the `backend-assignment repo`). No hardcoding of data on the frontend.
+2. Write end-to-end tests using Playwright to cover the main user flows.
+3. Use TypeScript for type safety.
 
 ## Evaluation Criteria
 
@@ -81,7 +80,6 @@ Your submission will be evaluated based on the following criteria:
 
 3. **Performance**:
 
-   - Optimal rendering and re-rendering
    - Efficient data fetching and caching strategies
 
 4. **Testing**:
@@ -89,11 +87,7 @@ Your submission will be evaluated based on the following criteria:
    - Comprehensive end-to-end tests using Playwright
    - Coverage of main user flows and edge cases
 
-5. **UI/UX**:
-
-   - Responsive design
-
-6. **Additional Improvements**
+5. **Additional Improvements**
    - Feel free to make suggestions or implement additional improvements that you believe will add value to the project.
 
 ## Submission
@@ -104,6 +98,6 @@ Once you have completed your work, push your changes to a new branch and submit 
 - Any challenges you faced and how you overcame them.
 - A description of any additional improvements or optimizations you made.
 
-Remember, we're not just looking for a working implementation, but for code that demonstrates your skills as a professional developer building a product for millions of users.
+Remember, we're not just looking for a working implementation, but for code that demonstrates your skills as a professional team member.
 
 Good luck! We're excited to see your implementation.
